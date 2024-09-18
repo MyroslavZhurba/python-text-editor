@@ -1,5 +1,5 @@
 import tkinter as tk
-from app.menus.custom_menu import CustomMenu
+from menus.custom_menu import CustomMenu
 import logging
 
 

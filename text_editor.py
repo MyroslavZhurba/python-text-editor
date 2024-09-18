@@ -1,11 +1,11 @@
 import tkinter as tk
 from tkinter import font
 import logging
-from app import config
-from app.menus.file_menu import FileMenu
-from app.menus.edit_menu import EditMenu
-from app.menus.view_menu import ViewMenu
-from app.status_bar import StatusBar
+import config
+from menus.file_menu import FileMenu
+from menus.edit_menu import EditMenu
+from menus.view_menu import ViewMenu
+from status_bar import StatusBar
 
 
 class TextEditor:

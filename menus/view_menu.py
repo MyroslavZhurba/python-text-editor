@@ -1,9 +1,9 @@
 import logging
 import tkinter as tk
 from tkinter import font
-from app import config
-from app.menus.custom_menu import CustomMenu
-from app.status_bar import StatusBar
+import config
+from menus.custom_menu import CustomMenu
+from status_bar import StatusBar
 
 
 class ViewMenu(CustomMenu):

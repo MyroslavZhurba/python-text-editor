@@ -1,5 +1,5 @@
 import tkinter as tk
-from app import config
+import config
 import logging
 
 

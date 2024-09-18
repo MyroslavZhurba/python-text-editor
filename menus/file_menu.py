@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
-from app import config
-from app.menus.custom_menu import CustomMenu
+import config
+from menus.custom_menu import CustomMenu
 import logging
 
 
